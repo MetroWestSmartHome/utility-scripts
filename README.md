@@ -7,6 +7,7 @@ Standalone utility scripts from [MetroWest Smart Home](https://metrowestsmarthom
 | Script | Description | Tutorial |
 |--------|-------------|----------|
 | [cozyla-processor](photo-processing/cozyla-processor/) | Process photos for Cozyla digital frames | [Blog Post](https://metrowestsmarthome.com/2025/12/21/fixing-black-images-on-your-cozyla-digital-frame/) |
+| [claude-code-hooks](claude-code-hooks/) | Hook scripts for Claude Code context injection | [Blog Post](https://metrowestsmarthome.com/?p=319) |
 
 ## Usage
 
